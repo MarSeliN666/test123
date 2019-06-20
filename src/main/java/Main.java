@@ -9,5 +9,5 @@ public class Main {
     }
 
     public static String count = "zzz";
-    public static Integer number = 666;
+    public static Integer number = 555;
 }
