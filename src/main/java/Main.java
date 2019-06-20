@@ -10,4 +10,5 @@ public class Main {
 
     public static String count = "zzz";
     public static Integer number = 555;
+    public static Integer number2 = 1555;
 }
