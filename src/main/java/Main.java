@@ -4,7 +4,12 @@ public class Main {
         int b = 6;
 
         System.out.println(a + b);
-        System.out.println(000);
         System.out.println(a + 9);
+        System.out.println(555);
+        System.out.println(a + 555);
     }
+
+    public static String count = "zzz";
+    public static Integer number = 666;
+
 }
