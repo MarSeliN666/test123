@@ -7,6 +7,7 @@ public class Main {
         System.out.println(a + 9);
         System.out.println(555);
         System.out.println(a + 555);
+        int c = 5;
     }
 
     public static String count = "zzz";
