@@ -8,5 +8,7 @@ public class Main {
         System.out.println(a % b);
         System.out.println("777");
         System.out.println("777");
+
+        System.out.println("ooo");
     }
 }
